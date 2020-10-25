@@ -4,7 +4,7 @@ React VIST 101
 ### TABLE OF CONTENTS ###
 
 * What is **VIST**?
-* **VIST** List
+* **VIST List**
 * **React VIST 101**
 
 ### What is VIST? ###
@@ -13,7 +13,7 @@ React VIST 101
 
 ### VIST List ###
 
-The following is a introductory list of **VIST** for **Facebook** developer products:
+The following is an introductory list of **VIST** for **Facebook** developer products:
 
 * **React VIST 101**
 * **React Native VIST 101**
